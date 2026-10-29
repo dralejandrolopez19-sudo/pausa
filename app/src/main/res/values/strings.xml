@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pausa</string>
+    <string name="accessibility_service_label">Escudo de Pausa Consciente</string>
+    <string name="accessibility_service_description">Detecta cuando abres redes sociales bloqueadas (Instagram, TikTok, YouTube, Facebook, X, WhatsApp) para activar tu Modo Pausa consciente y proteger tu tiempo.</string>
+</resources>
+

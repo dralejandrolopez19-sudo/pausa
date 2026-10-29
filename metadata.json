@@ -1,0 +1,6 @@
+{
+  "name": "Pausa",
+  "description": "Una app para recuperar tu atención. Mide, limita, pausa y convierte tu tiempo en algo que te haga bien. Compatible con Huawei AppGallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

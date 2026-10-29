@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Strictly centered inside the 66dp safe zone (coordinates 21..87) for Huawei AppGallery & HarmonyOS -->
+    <!-- Left pause bar (warm cream) -->
+    <path
+        android:fillColor="#F4F1EA"
+        android:pathData="M40,34 C43.0,34 45.5,36.5 45.5,39.5 L45.5,68.5 C45.5,71.5 43.0,74 40,74 C37.0,74 34.5,71.5 34.5,68.5 L34.5,39.5 C34.5,36.5 37.0,34 40,34 Z" />
+    <!-- Right pause bar (warm cream) -->
+    <path
+        android:fillColor="#F4F1EA"
+        android:pathData="M60,34 C63.0,34 65.5,36.5 65.5,39.5 L65.5,63.5 C65.5,66.5 63.0,69 60,69 C57.0,69 54.5,66.5 54.5,63.5 L54.5,39.5 C54.5,36.5 57.0,34 60,34 Z" />
+    <!-- Sprouting leaf at bottom-right of pause bars -->
+    <path
+        android:fillColor="#88C999"
+        android:pathData="M55,74 C55,61.5 66.5,55.5 78.5,55.5 C78.5,68 67.5,75 55,74 Z" />
+    <!-- Leaf central vein -->
+    <path
+        android:fillColor="#1E4332"
+        android:pathData="M57.5,72 C62.5,67 68.5,62 75.5,58 C69.5,63 63.5,68 57.5,72 Z" />
+</vector>
